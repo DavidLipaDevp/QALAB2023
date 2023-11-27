@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Main {
     public static void main(String[] args) {
 
@@ -20,6 +21,7 @@ public class Main {
         };
 
 
+        String user = config[XPROD][CUSER];
         //Hacer doble bucle for/for
 
 
@@ -32,3 +34,4 @@ public class Main {
 
     }
 }
+
